@@ -1,6 +1,3 @@
-
-## Assignment
-
 ### Prerequisite Installation
 - nodeJs v20.14.0
 - MongoDb 
